@@ -1,4 +1,6 @@
+<h1>
 For diagonal-1
+
 A> For above example array,the elements across diagonal1 is [1, 5, 9] . So  the first element (i.e. 1) of diagonal which is matrix[1st element of outer array][first element of inner array] — in JS code which is arr[0][0].
 
 
@@ -38,13 +40,16 @@ array.[array.length - index - 1]
 
 
 Here, the argument “index” is the index of the current element being processed, ie. it will start form index=0 of the given original array.
+
 So for the first iteration (index = 0 i.e. in this specific problem row = 0), it will give me > array.[array.length-1–0] > which is the last element of the array.
+
 A> Then for the second loop, index-value (i.e. row value in this specific problem) will be 1, i.e. I am accessing the element (array.length — 1–1). That is the element at array.length — 2 position, i.e. the second-last position.
 B> And this way, for the last loop, I will be accessing array[(array.length-(length-1)-1] element, i.e. the array[0] position’s element of the original array.
+
 So, the following pseudo code for this problem would make more sense now.
 Condition for Diagonal-1: The row-column condition is row = column.
 Condition for Diagonal-2: The row-column condition is row = numberOfRows-column -1
-
+</h1>
 
 
 
