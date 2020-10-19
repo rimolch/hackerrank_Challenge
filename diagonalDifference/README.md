@@ -1,6 +1,6 @@
 
 <h1> Discussion about this method</h1>
-
+<h1>or visit here https://paulrohan.medium.com/matrix-in-javascript-at-the-hacking-school-bootcamp-sum-elements-of-diagonals-of-a-matrix-in-o-n-4f2857028bc0</h1>
 <h1>array/matrix = [1,2,3],[4,5,6],[7,8,9] </h1>
 
 
