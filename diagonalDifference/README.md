@@ -1,5 +1,5 @@
 
-<h1> Discussion about this repository</h1>
+<h1> Discussion about this method</h1>
 
 <h1>array/matrix = [1,2,3],[4,5,6],[7,8,9] </h1>
 
