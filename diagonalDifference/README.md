@@ -1,4 +1,4 @@
-<h1>
+<h1 style = text-color:blue;>
 For diagonal-1
 
 A> For above example array,the elements across diagonal1 is [1, 5, 9] . So  the first element (i.e. 1) of diagonal which is matrix[1st element of outer array][first element of inner array] — in JS code which is arr[0][0].
