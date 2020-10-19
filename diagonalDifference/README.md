@@ -1,4 +1,4 @@
-<h1 style = color:blue;>
+<h1>
 For diagonal-1
 
 A> For above example array,the elements across diagonal1 is [1, 5, 9] . So  the first element (i.e. 1) of diagonal which is matrix[1st element of outer array][first element of inner array] — in JS code which is arr[0][0].
@@ -9,7 +9,7 @@ B> The second element (i.e. 5) > which is array[2nd element of outer array][2nd 
 
 So similarly ,starting from row index = 0, each element of the diagonal1 would be arr[row][row].
 
-Now for diagonal-2
+<h1>Now for diagonal-2</h1>
 
 A> The diagonal2 is [3, 5, 7]. So the first element (i.e. 3) >
 which is array[First element of outer array][Last element of inner array] > In code which is arr[0][2]
