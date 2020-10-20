@@ -12,6 +12,6 @@ for(var i=0; i<n; i++){
          } 
         } 
     } 
-    return Math.abs(diag1 - diag2);// this will show tha absolute value of two difference  diagonal
+    return Math.abs(diag1 - diag2);// this will show the absolute value of two difference  diagonal
 
 }
