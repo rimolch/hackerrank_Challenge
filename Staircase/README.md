@@ -12,3 +12,4 @@
 0 spaces  - # # # # # # (n-6)
 
 ### in terms of number # in each row the simply increment by 1 until equals n;
+## Go to my Dashboard to see the code editor https://www.hackerrank.com/challenges/staircase/problem
